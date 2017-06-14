@@ -1,0 +1,91 @@
+body{
+    background: #C8E1DD;
+}
+.box{
+    width: 900px;
+    margin: 50px auto;
+
+}
+.box .menu .nav{
+    float: left;
+}
+.box .menu a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #F8F8F8;
+}
+.box .menu .common1{
+    width: 100px;
+    height: 40px;
+    background: #C818F8;
+    text-align: center;
+    line-height: 40px;
+}
+.box .menu1 .box1{
+    width: 100px;
+    background: #D2EBE7;
+    display: none;
+}
+.box .menu1:hover .box1{
+    display: block;
+}
+.box .menu1 .box1 li:hover{
+    background: #09F8A1;
+}
+
+.box .menu .common2{
+    width: 100px;
+    height: 40px;
+    background: #160FFF;
+    text-align: center;
+    line-height: 40px;
+}
+.box .menu2 .box2{
+    width: 100px;
+    background: #D2EBE7;
+    display: none;
+}
+.box .menu2:hover .box2{
+    display: block;
+}
+.box .menu2 .box2 li:hover{
+    background: #FFB4FA;
+}
+.box .menu3 .box3{
+    width: 100px;
+    background: #D2EBE7;
+    display: none;
+}
+.box .menu3:hover .box3{
+    display: block;
+}
+.box .menu3 .box3 li:hover{
+    background: #64B1A8;
+}
+
+.box .menu4 .box4{
+    width: 100px;
+    background: #D2EBE7;
+    display: none;
+}
+.box .menu4:hover .box4{
+    display: block;
+}
+.box .menu4 .box4 li:hover{
+    background: #12E990;
+}
+
+.box .menu4 .box4-3 .menu-box4-3{
+    width: 100px;
+    background: #7A35A4;
+    display: none;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -124px;
+}
+.box .menu4 .box4-3:hover .menu-box4-3{
+    display: block;
+}
+.box .menu4 .box4-3 .menu-box4-3 li:hover{
+    background: #0DFFC8;
+}
